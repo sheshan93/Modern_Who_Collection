@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    targetNamespace="https://github.com/sheshan93/Modern_Who_Collection"
+    xmlns:BadWolf="https://github.com/sheshan93/Modern_Who_Collection"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+    elementFormDefault="qualified">
+    
+    <xs:import namespace="http://www.loc.gov/mods/v3"
+        schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"/>
+    <xs:import namespace="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+        schemaLocation="https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd"/>
+    
+    <xs:element name="BadWolf">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="BadWolf:modsSection" minOccurs="0"/>
+                <xs:element ref="BadWolf:pbcSection" minOccurs="0" />
+                <xs:element name="doctor" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                <xs:element name="medium" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    
+    <xs:element name="modsSection">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="mods:mods" maxOccurs="unbounded" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+    <xs:element name="pbcSection">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="pbcore:pbcoreDescriptionDocument" maxOccurs="unbounded" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+    
+</xs:schema>
