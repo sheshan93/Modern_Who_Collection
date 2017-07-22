@@ -15,7 +15,7 @@
             <xs:sequence>
                 <xs:element ref="BadWolf:modsSection" minOccurs="0"/>
                 <xs:element ref="BadWolf:pbcSection" minOccurs="0" />
-                <xs:element name="doctor" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                <xs:element ref="BadWolf:doctor" minOccurs="0" maxOccurs="unbounded"/>
                 <xs:element name="medium" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
             </xs:sequence>
         </xs:complexType>
@@ -37,6 +37,16 @@
             </xs:sequence>
         </xs:complexType>
     </xs:element>
+    
+    <xs:element name="doctor">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="doctorNumber" type="xs:string"/>
+                <xs:element name="performer" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
     
     
 </xs:schema>
