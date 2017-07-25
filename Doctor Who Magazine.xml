@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BadWolf xmlns="https://github.com/sheshan93/Modern_Who_Collection"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+    xmlns:mods="http://www.loc.gov/mods/v3" 
+    xsi:schemaLocation="https://github.com/sheshan93/Modern_Who_Collection https://raw.githubusercontent.com/sheshan93/Modern_Who_Collection/master/badwolf.xsd">
+    
+    
+    
+    
+    <modsSection>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>Doctor Who Magazine Issue 513</mods:title>
+            </mods:titleInfo>
+            <mods:name type="corporate">
+                <mods:namePart>Doctor Who Magazine</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text">creator</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            </mods:language>
+            <mods:physicalDescription>
+                <mods:form authority="marcform">print</mods:form>
+            </mods:physicalDescription>
+            <mods:subject>
+                <mods:topic>Doctor Who</mods:topic>
+                <mods:topic>Science Fiction</mods:topic>
+                <mods:topic>TV Series</mods:topic>
+            </mods:subject>
+            <mods:abstract type="Summary">
+                The Ice Warriors and the Cybermen are on their way back to Doctor Who – so we have a choice of TWO monsters covers for our latest issue! Inside Issue 513, we preview the next four episodes to air, The Lie of the Land, Empress of Mars, The Eaters of Light and World Enough and Time. 
+            </mods:abstract>
+            <mods:location>
+                <mods:url displayLabel="electronic resource" usage="primary display"
+                    >https://doctorwhomagazine.com/doctor-who-magazine-513</mods:url>
+            </mods:location>
+            <mods:identifier type="lccn">BadWolf.008</mods:identifier>
+        </mods:mods>
+    </modsSection>
+    
+    <pbcSection>
+        <pbcore:pbcoreDescriptionDocument>
+            <pbcore:pbcoreAssetDate>2017-06-01</pbcore:pbcoreAssetDate>
+            <pbcore:pbcoreIdentifier source="lccn">BadWolf.008</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Doctor Who Magazine Issue 513</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>An issue of the official Doctor Who Mgazine. The Ice Warriors and the Cybermen are on their way back to Doctor Who – so we have a choice of TWO monsters covers for our latest issue! Inside Issue 513, we preview the next four episodes to air, The Lie of the Land, Empress of Mars, The Eaters of Light and World Enough and Time. </pbcore:pbcoreDescription>
+            <pbcore:pbcoreRightsSummary>
+                <pbcore:rightsSummary>© 2017 Copyright Doctor Who Magazine. All Rights reserved.</pbcore:rightsSummary>
+            </pbcore:pbcoreRightsSummary>
+        </pbcore:pbcoreDescriptionDocument>        
+    </pbcSection>
+    
+    
+    
+    
+    <doctor>
+        <doctorNumber>Twelfth</doctorNumber>
+        <performer>Capaldi, Peter</performer>
+        <tenure>2013-2017</tenure>
+    </doctor>
+    
+    <medium>Magazine</medium>
+    
+    
+</BadWolf>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BadWolf xmlns="https://github.com/sheshan93/Modern_Who_Collection"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+    xmlns:mods="http://www.loc.gov/mods/v3" 
+    xsi:schemaLocation="https://github.com/sheshan93/Modern_Who_Collection https://raw.githubusercontent.com/sheshan93/Modern_Who_Collection/master/badwolf.xsd">
+    
+    
+    
+    
+    <modsSection>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>Gallifrey One</mods:title>
+            </mods:titleInfo>
+            <mods:name type="corporate">
+                <mods:namePart>Gallifrey One Conventions</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text">sponsor</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:namePart>Robbie Bourget</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text">director</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:namePart>Shaun Lyon</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text">director</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:namePart>Joyce Lloyd</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text">director</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:namePart>Dan Sandifer</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text">director</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:namePart>Cathy Johnson</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text">director</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            </mods:language>
+            <mods:physicalDescription>
+                <mods:form authority="marcform">mixed amterial</mods:form>
+            </mods:physicalDescription>
+            <mods:subject>
+                <mods:topic>Doctor Who</mods:topic>
+                <mods:topic>Science Fiction</mods:topic>
+                <mods:topic>TV Series</mods:topic>
+            </mods:subject>
+            <mods:abstract type="Summary">
+                Gallifrey One is the world’s largest and longest-running annual Doctor Who fan convention. It is a great place for fans old and new alike to meet, attend panels, and discover new sourecs of Who information. You don't need to bee a long time fan t enjoy this convention, whose location changes every year. Very often, contributors to the show, actors included, attend to give panels.
+            </mods:abstract>
+            <mods:location>
+                <mods:url displayLabel="electronic resource" usage="primary display"
+                    >http://www.gallifreyone.com/</mods:url>
+            </mods:location>
+            <mods:identifier type="lccn">BadWolf.010</mods:identifier>
+        </mods:mods>
+    </modsSection>
+    
+    <pbcSection>
+        <pbcore:pbcoreDescriptionDocument>
+            <pbcore:pbcoreAssetDate>Ongoing</pbcore:pbcoreAssetDate>
+            <pbcore:pbcoreIdentifier source=""></pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Gallifrey One</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Gallifrey One is the world’s largest and longest-running annual Doctor Who fan convention. It is a great place for fans old and new alike to meet, attend panels, and discover new sourecs of Who information. You don't need to bee a long time fan t enjoy this convention, whose location changes every year. Very often, contributors to the show, actors included, attend to give panels.</pbcore:pbcoreDescription>
+            <pbcore:pbcoreRightsSummary>
+                <pbcore:rightsSummary>Copyright © 2017, Gallifrey One Conventions and the Institute for Specialized Literature (ISL), Inc. All rights reserved.
+                </pbcore:rightsSummary>
+            </pbcore:pbcoreRightsSummary>
+        </pbcore:pbcoreDescriptionDocument>        
+    </pbcSection>
+    
+    
+    
+    
+    
+    <doctor>
+        <doctorNumber>First</doctorNumber>
+        <performer>Hartnell, William</performer>
+        <tenure>1963-1966</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Second</doctorNumber>
+        <performer>Troughton, Patrick</performer>
+        <tenure>1966-1969</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Third</doctorNumber>
+        <performer>Pertwee, Jon</performer>
+        <tenure>1970-1974</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Fourth</doctorNumber>
+        <performer>Baker, Tom</performer>
+        <tenure>1974-1981</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Fifth</doctorNumber>
+        <performer>Davidson, Peter</performer>
+        <tenure>1981-1984</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Sixth</doctorNumber>
+        <performer>Baker, Colin</performer>
+        <tenure>1984-1986</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Seventh</doctorNumber>
+        <performer>McCoy, Sylvester</performer>
+        <tenure>1987-1989</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Eighth</doctorNumber>
+        <performer>McGann, Paul</performer>
+        <tenure>1996</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>War</doctorNumber>
+        <performer>Hurt, John</performer>
+        <tenure>2013</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Ninth</doctorNumber>
+        <performer>Eccleston, Christopher</performer>
+        <tenure>2005</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Tenth</doctorNumber>
+        <performer>Tennant,David</performer>
+        <tenure>2005-2010</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Eleventh</doctorNumber>
+        <performer>Smith, Matt</performer>
+        <tenure>2010-2013</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Twelfth</doctorNumber>
+        <performer>Capaldi, Peter</performer>
+        <tenure>2013-2017</tenure>
+    </doctor>
+    
+    <medium>Convention</medium>
+    
+    
+</BadWolf>

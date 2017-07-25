@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BadWolf xmlns="https://github.com/sheshan93/Modern_Who_Collection"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+    xmlns:mods="http://www.loc.gov/mods/v3" 
+    xsi:schemaLocation="https://github.com/sheshan93/Modern_Who_Collection https://raw.githubusercontent.com/sheshan93/Modern_Who_Collection/master/badwolf.xsd">
+    
+    
+    
+    
+    <modsSection>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>Doctor Who and the Genesis of the Cybermen</mods:title>
+                <mods:title>Radio Free Skaro</mods:title>
+            </mods:titleInfo>
+            <mods:name type="personal">
+                <mods:namePart>Frey, Warren</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text">host</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:namePart>Schapansky, Steven</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text">host</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:namePart>Burgess, Chris</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text">host</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            </mods:language>
+            <mods:subject>
+                <mods:topic>Doctor Who</mods:topic>
+                <mods:topic>Science Fiction</mods:topic>
+                <mods:topic>TV Series</mods:topic>
+            </mods:subject>
+            <mods:abstract type="Summary">
+                Live from Gloucestershire, it’s Radio Free Skaro! With Steven visiting the United Kingdom, it seemed only right to watch and review this week’s Doctor Who (the show, not the character) in the nation where it was created. And so noted Doctor Who writer Paul Cornell and esteemed podcaster Dave Probert join Steven in talking about “World Enough and Time”, a dazzling writing effort from Steven Moffat, directed with chilling precision by Rachel Talalay, and acted to perfection by the main cast. Listen in to talk about the episode, about how the promotion of the series may have muted its impact, and a live stats report to the delight of all!
+            </mods:abstract>
+            <mods:location>
+                <mods:url displayLabel="electronic resource" usage="primary display"
+                    >http://www.radiofreeskaro.com/2017/06/25/radio-free-skaro-588-doctor-who-and-the-genesis-of-the-cybermen/</mods:url>
+            </mods:location>
+            <mods:identifier type="lccn">BadWolf.007</mods:identifier>
+        </mods:mods>
+    </modsSection>
+    
+    <pbcSection>
+        <pbcore:pbcoreDescriptionDocument>
+            <pbcore:pbcoreAssetDate>2017-06-25</pbcore:pbcoreAssetDate>
+            <pbcore:pbcoreIdentifier source="lccn">BadWolf.007</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Doctor Who and the Genesis of the Cybermen</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Live from Gloucestershire, it’s Radio Free Skaro! With Steven visiting the United Kingdom, it seemed only right to watch and review this week’s Doctor Who (the show, not the character) in the nation where it was created. And so noted Doctor Who writer Paul Cornell and esteemed podcaster Dave Probert join Steven in talking about “World Enough and Time”, a dazzling writing effort from Steven Moffat, directed with chilling precision by Rachel Talalay, and acted to perfection by the main cast. Listen in to talk about the episode, about how the promotion of the series may have muted its impact, and a live stats report to the delight of all!</pbcore:pbcoreDescription>
+            <pbcore:pbcoreRightsSummary>
+                <pbcore:rightsSummary>All Rights Reserved</pbcore:rightsSummary>
+            </pbcore:pbcoreRightsSummary>
+        </pbcore:pbcoreDescriptionDocument>        
+    </pbcSection>
+    
+    
+    
+    
+    <doctor>
+        <doctorNumber>First</doctorNumber>
+        <performer>Hartnell, William</performer>
+        <tenure>1963-1966</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Second</doctorNumber>
+        <performer>Troughton, Patrick</performer>
+        <tenure>1966-1969</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Third</doctorNumber>
+        <performer>Pertwee, Jon</performer>
+        <tenure>1970-1974</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Fourth</doctorNumber>
+        <performer>Baker, Tom</performer>
+        <tenure>1974-1981</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Fifth</doctorNumber>
+        <performer>Davidson, Peter</performer>
+        <tenure>1981-1984</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Sixth</doctorNumber>
+        <performer>Baker, Colin</performer>
+        <tenure>1984-1986</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Seventh</doctorNumber>
+        <performer>McCoy, Sylvester</performer>
+        <tenure>1987-1989</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Eighth</doctorNumber>
+        <performer>McGann, Paul</performer>
+        <tenure>1996</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>War</doctorNumber>
+        <performer>Hurt, John</performer>
+        <tenure>2013</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Ninth</doctorNumber>
+        <performer>Eccleston, Christopher</performer>
+        <tenure>2005</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Tenth</doctorNumber>
+        <performer>Tennant,David</performer>
+        <tenure>2005-2010</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Eleventh</doctorNumber>
+        <performer>Smith, Matt</performer>
+        <tenure>2010-2013</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Twelfth</doctorNumber>
+        <performer>Capaldi, Peter</performer>
+        <tenure>2013-2017</tenure>
+    </doctor>
+    
+    <medium>Podcast</medium>
+    
+    
+</BadWolf>

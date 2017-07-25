@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BadWolf xmlns="https://github.com/sheshan93/Modern_Who_Collection"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+    xmlns:mods="http://www.loc.gov/mods/v3" 
+    xsi:schemaLocation="https://github.com/sheshan93/Modern_Who_Collection https://raw.githubusercontent.com/sheshan93/Modern_Who_Collection/master/badwolf.xsd">
+    
+    
+    
+    
+    <modsSection>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>Doctor Who</mods:title>
+                <mods:subTitle>Essential Guide to 50 Years of Doctor Who</mods:subTitle>
+            </mods:titleInfo>
+            <mods:name type="corporate">
+                <mods:namePart>BBC</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text">creator</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            </mods:language>
+            <mods:physicalDescription>
+                <mods:form authority="marcform">print</mods:form>
+                <mods:extent>7.9 x 0.8 x 9.3 inches</mods:extent>
+            </mods:physicalDescription>
+            <mods:subject>
+                <mods:topic>Doctor Who</mods:topic>
+                <mods:topic>Science Fiction</mods:topic>
+                <mods:topic>TV Series</mods:topic>
+            </mods:subject>
+            <mods:abstract type="Summary">
+                This essential guide to fifty years of Doctor Who includes all eleven incarnations of the Doctor and fascinating facts on his adventures in space and time, as well as his helpful companions and fearsome foes. Find out all about the Doctor's TARDIS, his regenerations, and much, much more! Created specifically for the 50th Anniversary of Doctor Who.
+            </mods:abstract>
+            <mods:location>
+                <mods:url displayLabel="book" usage="primary display"
+                    >https://www.amazon.com/Doctor-Who-Essential-Guide-Years/dp/1405914009</mods:url>
+            </mods:location>
+            <mods:identifier type="lccn">BadWolf.009</mods:identifier>
+            <mods:identifier type="isbn">978-1405914000</mods:identifier>
+        </mods:mods>
+    </modsSection>
+    
+    <pbcSection>
+        <pbcore:pbcoreDescriptionDocument>
+            <pbcore:pbcoreAssetDate>2013-11-19</pbcore:pbcoreAssetDate>
+            <pbcore:pbcoreIdentifier source="lccn">BadWolf.009</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Doctor Who: Essential Guide to 50 Years of Doctor Who</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>This essential guide to fifty years of Doctor Who includes all eleven incarnations of the Doctor and fascinating facts on his adventures in space and time, as well as his helpful companions and fearsome foes. Find out all about the Doctor's TARDIS, his regenerations, and much, much more! Created specifically for the 50th Anniversary of Doctor Who.</pbcore:pbcoreDescription>
+            <pbcore:pbcoreRightsSummary>
+                <pbcore:rightsSummary>(c) BBC 2013</pbcore:rightsSummary>
+            </pbcore:pbcoreRightsSummary>
+        </pbcore:pbcoreDescriptionDocument>        
+    </pbcSection>
+    
+    
+    
+    
+    
+    <doctor>
+        <doctorNumber>First</doctorNumber>
+        <performer>Hartnell, William</performer>
+        <tenure>1963-1966</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Second</doctorNumber>
+        <performer>Troughton, Patrick</performer>
+        <tenure>1966-1969</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Third</doctorNumber>
+        <performer>Pertwee, Jon</performer>
+        <tenure>1970-1974</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Fourth</doctorNumber>
+        <performer>Baker, Tom</performer>
+        <tenure>1974-1981</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Fifth</doctorNumber>
+        <performer>Davidson, Peter</performer>
+        <tenure>1981-1984</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Sixth</doctorNumber>
+        <performer>Baker, Colin</performer>
+        <tenure>1984-1986</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Seventh</doctorNumber>
+        <performer>McCoy, Sylvester</performer>
+        <tenure>1987-1989</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Eighth</doctorNumber>
+        <performer>McGann, Paul</performer>
+        <tenure>1996</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>War</doctorNumber>
+        <performer>Hurt, John</performer>
+        <tenure>2013</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Ninth</doctorNumber>
+        <performer>Eccleston, Christopher</performer>
+        <tenure>2005</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Tenth</doctorNumber>
+        <performer>Tennant,David</performer>
+        <tenure>2005-2010</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Eleventh</doctorNumber>
+        <performer>Smith, Matt</performer>
+        <tenure>2010-2013</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Twelfth</doctorNumber>
+        <performer>Capaldi, Peter</performer>
+        <tenure>2013-2017</tenure>
+    </doctor><doctor>
+        <doctorNumber>First</doctorNumber>
+        <performer>Hartnell, William</performer>
+        <tenure>1963-1966</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Second</doctorNumber>
+        <performer>Troughton, Patrick</performer>
+        <tenure>1966-1969</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Third</doctorNumber>
+        <performer>Pertwee, Jon</performer>
+        <tenure>1970-1974</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Fourth</doctorNumber>
+        <performer>Baker, Tom</performer>
+        <tenure>1974-1981</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Fifth</doctorNumber>
+        <performer>Davidson, Peter</performer>
+        <tenure>1981-1984</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Sixth</doctorNumber>
+        <performer>Baker, Colin</performer>
+        <tenure>1984-1986</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Seventh</doctorNumber>
+        <performer>McCoy, Sylvester</performer>
+        <tenure>1987-1989</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Eighth</doctorNumber>
+        <performer>McGann, Paul</performer>
+        <tenure>1996</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>War</doctorNumber>
+        <performer>Hurt, John</performer>
+        <tenure>2013</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Ninth</doctorNumber>
+        <performer>Eccleston, Christopher</performer>
+        <tenure>2005</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Tenth</doctorNumber>
+        <performer>Tennant,David</performer>
+        <tenure>2005-2010</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Eleventh</doctorNumber>
+        <performer>Smith, Matt</performer>
+        <tenure>2010-2013</tenure>
+    </doctor>
+    
+    
+    <medium>Book</medium>
+    
+</BadWolf>

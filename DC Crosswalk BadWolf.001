@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    
+    <dc:title>Doctor Who News</dc:title>
+    <dc:creator>Jeremy Bement</dc:creator>
+    <dc:creator>John Bowman</dc:creator>
+    <dc:creator>Dean Braithwaite</dc:creator>
+    <dc:creator>Jarrod Cooper</dc:creator>
+    <dc:creator>Mike Doran</dc:creator>
+    <dc:creator>Chuck Foster</dc:creator>
+    <dc:creator>Marcus Hilton</dc:creator>
+    <dc:creator>Adam Kirk</dc:creator>
+    <dc:creator>Melad Moshiri</dc:creator>
+    <dc:creator>Josiah Rowe</dc:creator>
+    <dc:creator>Pascal Salzmann</dc:creator>
+    <dc:creator>Paul Scoones</dc:creator>
+    <dc:creator>R Alan Siler</dc:creator>
+    <dc:creator>Anthony Weight</dc:creator>
+    <dc:subject>Doctor Who</dc:subject>
+    <dc:subject>Science Fiction</dc:subject>
+    <dc:subject>TV Series</dc:subject>
+    <dc:description>An unofficial repository of news about Doctor Who and its spin-of series. Provides
+        information on news, products, and events, and links to sub sites that discuss where the show is
+        broadcasting, reviews, competitions, and media interest</dc:description>
+    <dc:publisher>News in Time and Space Ltd</dc:publisher>
+    <dc:date>2017</dc:date>
+    <dc:type>News Source</dc:type>
+    <dc:name>Hartnell, William</dc:name>
+    <dc:name>Troughton, Patrick</dc:name>
+    <dc:name>Pertwee, Jon</dc:name>
+    <dc:name>Baker, Tom</dc:name>
+    <dc:name>Davidson, Peter</dc:name>
+    <dc:name>Baker, Colin</dc:name>
+    <dc:name>McCoy, Sylvester</dc:name>
+    <dc:name>McGann, Paul</dc:name>
+    <dc:name>Hurt, John</dc:name>
+    <dc:name>Eccleston, Christopher</dc:name>
+    <dc:name>Tennant,David</dc:name>
+    <dc:name>Smith, Matt</dc:name>
+    <dc:name>Capaldi, Peter</dc:name>
+    <dc:identifier>BadWolf.001</dc:identifier>
+    <dc:language>en</dc:language>
+    <dc:rights>DOCTOR WHO NEWS IS COPYRIGHT © 2017 NEWS IN TIME AND SPACE. ALL RIGHTS
+        RESERVED.</dc:rights>
+    <dc:rights>DOCTOR WHO IS COPYRIGHT © BRITISH BROADCASTING CORPORATION (BBC) 1963, 2017.
+        NO INFRINGEMENT OF THIS COPYRIGHT IS EITHER IMPLIED OR INTENDED.</dc:rights>
+</metadata>

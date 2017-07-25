@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BadWolf xmlns="https://github.com/sheshan93/Modern_Who_Collection"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+    xmlns:mods="http://www.loc.gov/mods/v3" 
+    xsi:schemaLocation="https://github.com/sheshan93/Modern_Who_Collection https://raw.githubusercontent.com/sheshan93/Modern_Who_Collection/master/badwolf.xsd">
+    
+    
+    
+    
+    <modsSection>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>Doctor Who Official Podcast</mods:title>
+                <mods:subTitle>Doctor Who BBCA Insider: "Deep Breath"</mods:subTitle>
+            </mods:titleInfo>
+            <mods:name type="corporate">
+                <mods:namePart>BBC WorldWide</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text">creator</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            </mods:language>
+            <mods:abstract type="Summary">
+                The official Doctor Who podcast, produced by BBC worldwide. Features interviews,
+                highlights, behind the scenes, highlights from the Doctor Who World Tour, the latest and greatest from
+                the current season, and more. This episode looks inside the episode "Deep Breath", starring the Twelfth Doctor, Peter Capaldi, in series eight.
+            </mods:abstract>
+            <mods:subject>
+                <mods:topic>Doctor Who</mods:topic>
+                <mods:topic>Science Fiction</mods:topic>
+                <mods:topic>TV Series</mods:topic>
+          </mods:subject>
+            <mods:location>
+                <mods:url displayLabel="electronic resource" usage="primary display"
+                    >https://itunes.apple.com/us/podcast/doctor-who-official-
+                    podcast/id905483223?mt=2></mods:url>
+            </mods:location>
+            <mods:identifier type="lccn">BadWolf.002</mods:identifier>
+        </mods:mods>
+    </modsSection>
+    
+    <pbcSection>
+        <pbcore:pbcoreDescriptionDocument>
+            <pbcore:pbcoreAssetDate>2014-09-22</pbcore:pbcoreAssetDate>
+            <pbcore:pbcoreIdentifier source="lccn">BadWolf.002</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Doctor Who Official Podcast</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>The official Doctor Who podcast, produced by BBC worldwide. Features interviews,
+                highlights, behind the scenes, highlights from the Doctor Who World Tour, the latest and greatest from
+                the current season, and more. This episode looks inside the episode "Deep Breath", starring te Twelfth Doctor, Peter Capaldi, in series eight.</pbcore:pbcoreDescription>
+            <pbcore:pbcoreRightsSummary>
+                <pbcore:rightsSummary>© 2014 BBC</pbcore:rightsSummary>
+            </pbcore:pbcoreRightsSummary>
+        </pbcore:pbcoreDescriptionDocument>        
+    </pbcSection>
+    
+    
+    
+    
+    
+    <doctor>
+        <doctorNumber>Twelfth</doctorNumber>
+        <performer>Capaldi, Peter</performer>
+        <tenure>2013-2017</tenure>
+    </doctor>
+    
+    <medium>Podcast</medium>
+    
+    
+</BadWolf>
