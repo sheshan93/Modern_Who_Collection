@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BadWolf xmlns="https://github.com/sheshan93/Modern_Who_Collection"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+    xmlns:mods="http://www.loc.gov/mods/v3"
+    xsi:schemaLocation="https://github.com/sheshan93/Modern_Who_Collection https://raw.githubusercontent.com/sheshan93/Modern_Who_Collection/master/badwolf.xsd">
+
+
+
+
+    <modsSection>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>Image of the Different Versions of The Doctor</mods:title>
+            </mods:titleInfo>
+            <mods:name type="personal">
+                <mods:namePart>Edokter</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text">creator</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            </mods:language>
+            <mods:physicalDescription>
+                <mods:form authority="marcform">jpeg</mods:form>
+                <mods:extent>496 x 594 pixels ; 144 KB</mods:extent>
+            </mods:physicalDescription>
+            <mods:subject>
+                <mods:topic>Doctor Who</mods:topic>
+                <mods:topic>Science Fiction</mods:topic>
+                <mods:topic>Doctors</mods:topic>
+            </mods:subject>
+            <mods:abstract type="Summary">
+                In this image, the different versions of the Doctor, as portrayed by the series leads, are displayed in chronological order. They appear left to right from top row: William Hartnell (1963-1966), Patrick Troughton (1966-1969), Jon Pertwee (1970-1974), Tom Baker (1974-1981), Peter Davidson (1982-1984), Colin Baker (1984-1986), Paul McGann (1996), Christopher Eccleston (2005), David Tennant (2005-2010), Matt Smith (2010-2013), and Peter Capaldi (2014-present). Many other actors have played the title character of The Doctor on television and in various BBC-licensed spin-offs on television, stage, radio, film, audio plays and webcasts. The character's ability to periodically regenerate his appearance and personality has facilitated the ability of new actors to take over the role – in both official and unofficial productions – while in most cases maintaining continuity with the television series.
+            </mods:abstract>
+            <mods:location>
+                <mods:url displayLabel="electronic resource" usage="primary display"
+                    >https://en.wikipedia.org/wiki/File:Versions_of_the_Doctor.jpg></mods:url>
+            </mods:location>
+            <mods:identifier type="lccn">BadWolf014</mods:identifier>
+        </mods:mods>
+    </modsSection>
+
+    <pbcSection>
+        <pbcore:pbcoreDescriptionDocument>
+            <pbcore:pbcoreAssetDate>2014-08-13</pbcore:pbcoreAssetDate>
+            <pbcore:pbcoreIdentifier source="lccn">BadWolf.014</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Image of the Different Versions of the Doctor</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription> In this image, the different versions of the Doctor, as portrayed by the series leads, are displayed in chronological order. They appear left to right from top row: William Hartnell (1963-1966), Patrick Troughton (1966-1969), Jon Pertwee (1970-1974), Tom Baker (1974-1981), Peter Davidson (1982-1984), Colin Baker (1984-1986), Paul McGann (1996), Christopher Eccleston (2005), David Tennant (2005-2010), Matt Smith (2010-2013), and Peter Capaldi (2014-present). Many other actors have played the title character of The Doctor on television and in various BBC-licensed spin-offs on television, stage, radio, film, audio plays and webcasts. The character's ability to periodically regenerate his appearance and personality has facilitated the ability of new actors to take over the role – in both official and unofficial productions – while in most cases maintaining continuity with the television series.</pbcore:pbcoreDescription>
+            <pbcore:pbcoreRightsSummary>
+                <pbcore:rightsSummary>The images contained in the collage are copyright © to the BBC, but it is believed that they are covered by the U.S. fair use law because: 
+                    The images in question are low-resolution copies of publicity photographs released between 1963 and 2014;
+                    The images are being used to identify and for informational purposes about the lead character ("the Doctor") from Doctor Who;
+                    The images are significant because they demonstrate the changing nature of the character in the programme's long history;
+                    The use of the images in these articles will have no effect on the BBC's commercial use of the images in question.</pbcore:rightsSummary>
+            </pbcore:pbcoreRightsSummary>
+        </pbcore:pbcoreDescriptionDocument>
+    </pbcSection>
+
+
+
+
+
+    <doctor>
+        <doctorNumber>First</doctorNumber>
+        <performer>Hartnell, William</performer>
+        <tenure>1963-1966</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Second</doctorNumber>
+        <performer>Troughton, Patrick</performer>
+        <tenure>1966-1969</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Third</doctorNumber>
+        <performer>Pertwee, Jon</performer>
+        <tenure>1970-1974</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Fourth</doctorNumber>
+        <performer>Baker, Tom</performer>
+        <tenure>1974-1981</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Fifth</doctorNumber>
+        <performer>Davidson, Peter</performer>
+        <tenure>1981-1984</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Sixth</doctorNumber>
+        <performer>Baker, Colin</performer>
+        <tenure>1984-1986</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Seventh</doctorNumber>
+        <performer>McCoy, Sylvester</performer>
+        <tenure>1987-1989</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Eighth</doctorNumber>
+        <performer>McGann, Paul</performer>
+        <tenure>1996</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Ninth</doctorNumber>
+        <performer>Eccleston, Christopher</performer>
+        <tenure>2005</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Tenth</doctorNumber>
+        <performer>Tennant,David</performer>
+        <tenure>2005-2010</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Eleventh</doctorNumber>
+        <performer>Smith, Matt</performer>
+        <tenure>2010-2013</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Twelfth</doctorNumber>
+        <performer>Capaldi, Peter</performer>
+        <tenure>2013-2017</tenure>
+    </doctor>
+    
+    <medium>Still Image</medium>
+
+
+</BadWolf>
