@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BadWolf xmlns="https://github.com/sheshan93/Modern_Who_Collection"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+    xmlns:mods="http://www.loc.gov/mods/v3"
+    xsi:schemaLocation="https://github.com/sheshan93/Modern_Who_Collection https://raw.githubusercontent.com/sheshan93/Modern_Who_Collection/master/badwolf.xsd">
+
+
+
+
+    <modsSection>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>An Episode Roadmap for Modern Doctor Who Beginners</mods:title>
+            </mods:titleInfo>
+            <mods:name type="corporate">
+                <mods:namePart>Den of Geeks</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text">creator</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:originInfo eventType="publication">
+                <mods:publisher>Dennis Publishing Limited</mods:publisher>
+            </mods:originInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            </mods:language>
+            <mods:physicalDescription>
+                <mods:form authority="marcform">electronic</mods:form>
+                <mods:form authority="gmd">electronic resource</mods:form>
+                <mods:form>Computer data and programs.</mods:form>
+            </mods:physicalDescription>
+            <mods:subject>
+                <mods:topic>Doctor Who</mods:topic>
+                <mods:topic>Science Fiction</mods:topic>
+                <mods:topic>Roadmap</mods:topic>
+                <mods:topic>Beginners</mods:topic>
+            </mods:subject>
+            <mods:abstract type="Summary">
+             This website gives new Whovians the opportunity to catch up on post-2005 Doctor Who episodes without taking the time to watch them all. It maps out major plot points and gives summaries for important episodes. The website outlines everything that happens, with images for added support, up through series 8. It is a great place to start if you don't have time to catch up on the first 8 seasons of Doctor Who.
+            </mods:abstract>
+            <mods:location>
+                <mods:url displayLabel="electronic resource" usage="primary display"
+                    >http://www.denofgeek.com/tv/doctor-who/36537/modern-doctor-who-an-episode-roadmap-for-beginners</mods:url>
+            </mods:location>
+            <mods:identifier type="lccn">BadWolf.012</mods:identifier>
+        </mods:mods>
+    </modsSection>
+
+    <pbcSection>
+        <pbcore:pbcoreDescriptionDocument>
+            <pbcore:pbcoreAssetDate>2015-08-13</pbcore:pbcoreAssetDate>
+            <pbcore:pbcoreIdentifier source="lccn">BadWolf.014</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Image of the Different Versions of the Doctor</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>This website gives new Whovians the opportunity to catch up on post-2005 Doctor Who episodes without taking the time to watch them all. It maps out major plot points and gives summaries for important episodes. The website outlines everything that happens, with images for added support, up through series 8. It is a great place to start if you don't have time to catch up on the first 8 seasons of Doctor Who.</pbcore:pbcoreDescription>
+            <pbcore:pbcoreRightsSummary>
+                <pbcore:rightsSummary>© Copyright Dennis Publishing Limited</pbcore:rightsSummary>
+            </pbcore:pbcoreRightsSummary>
+        </pbcore:pbcoreDescriptionDocument>
+    </pbcSection>
+
+
+   
+    <doctor>
+        <doctorNumber>Ninth</doctorNumber>
+        <performer>Eccleston, Christopher</performer>
+        <tenure>2005</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Tenth</doctorNumber>
+        <performer>Tennant,David</performer>
+        <tenure>2005-2010</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Eleventh</doctorNumber>
+        <performer>Smith, Matt</performer>
+        <tenure>2010-2013</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Twelfth</doctorNumber>
+        <performer>Capaldi, Peter</performer>
+        <tenure>2013-2017</tenure>
+    </doctor>
+
+    <medium>Website</medium>
+
+
+</BadWolf>

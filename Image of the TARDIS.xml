@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BadWolf xmlns="https://github.com/sheshan93/Modern_Who_Collection"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+    xmlns:mods="http://www.loc.gov/mods/v3"
+    xsi:schemaLocation="https://github.com/sheshan93/Modern_Who_Collection https://raw.githubusercontent.com/sheshan93/Modern_Who_Collection/master/badwolf.xsd">
+    
+    
+    
+    
+    <modsSection>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>Image of the TARDIS</mods:title>
+            </mods:titleInfo>
+            <mods:name type="personal">
+                <mods:namePart>Babbel 1996</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text">creator</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            </mods:language>
+            <mods:physicalDescription>
+                <mods:form authority="marcform">jpeg</mods:form>
+                <mods:extent>4288 x 2848 pixels ; 5.3 MB</mods:extent>
+            </mods:physicalDescription>
+            <mods:subject>
+                <mods:topic>Doctor Who</mods:topic>
+                <mods:topic>Science Fiction</mods:topic>
+                <mods:topic>TARDIS</mods:topic>
+                <mods:topic>Time Travel</mods:topic>
+            </mods:subject>
+            <mods:abstract type="Summary">
+              This is an image of the TARDIS. TARDIS is an acronym that stands for Time and Relative Dimension in Space. The TARDIS appears to be a blue police box that may have once been used to call for help during emergencies, but it is actually the Doctor's time machine. The police box is just a disguise and it's actually much larger on the inside to accomodate for all the equipment necessary to travel through time.
+            </mods:abstract>
+            <mods:location>
+                <mods:url displayLabel="electronic resource" usage="primary display"
+                    >https://commons.wikimedia.org/wiki/File:Tardis_BBC_Television_Center.jpg</mods:url>
+            </mods:location>
+            <mods:identifier type="lccn">BadWolf.013</mods:identifier>
+        </mods:mods>
+    </modsSection>
+    
+    <pbcSection>
+        <pbcore:pbcoreDescriptionDocument>
+            <pbcore:pbcoreAssetDate>2010-07-05</pbcore:pbcoreAssetDate>
+            <pbcore:pbcoreIdentifier source="lccn">BadWolf.013</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Image of the TARDIS</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>This is an image of the TARDIS. TARDIS is an acronym that stands for Time and Relative Dimension in Space. The TARDIS appears to be a blue police box that may have once been used to call for help during emergencies, but it is actually the Doctor's time machine. The police box is just a disguise and it's actually much larger on the inside to accomodate for all the equipment necessary to travel through time.</pbcore:pbcoreDescription>
+            <pbcore:pbcoreRightsSummary>
+                <pbcore:rightsSummary>This file is licensed under the Creative Commons Attribution 2.5 Generic license.</pbcore:rightsSummary>
+            </pbcore:pbcoreRightsSummary>
+        </pbcore:pbcoreDescriptionDocument>
+    </pbcSection>
+ 
+    
+    <medium>Still Image</medium>
+    
+    
+</BadWolf>
