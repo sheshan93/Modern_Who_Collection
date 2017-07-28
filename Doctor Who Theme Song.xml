@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BadWolf xmlns="https://github.com/sheshan93/Modern_Who_Collection"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+    xmlns:mods="http://www.loc.gov/mods/v3"
+    xsi:schemaLocation="https://github.com/sheshan93/Modern_Who_Collection https://raw.githubusercontent.com/sheshan93/Modern_Who_Collection/master/badwolf.xsd">
+    
+    
+    
+    
+    <modsSection>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>Doctor Who Theme Song</mods:title>
+            </mods:titleInfo>
+            <mods:name type="personal">
+                <mods:namePart>Arnold, David</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text">creator</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            </mods:language>
+            <mods:physicalDescription>
+                <mods:form authority="marcform">audio</mods:form>
+            </mods:physicalDescription>
+            <mods:subject>
+                <mods:topic>Doctor Who</mods:topic>
+                <mods:topic>Science Fiction</mods:topic>
+                <mods:topic>Theme Song</mods:topic>
+            </mods:subject>
+            <mods:abstract type="Summary">
+                The Doctor Who theme song is highly recognizable because of its characteristic "Wooooo EEEEEEEE wooooooooooo" sound. With each new reincarncation of the Doctor, the theme song typically changes a little but the basic structure remains the same. 
+            </mods:abstract>
+            <mods:location>
+                <mods:url displayLabel="electronic resource" usage="primary display"
+                    >https://en.wikipedia.org/wiki/Doctor_Who_theme_music</mods:url>
+            </mods:location>
+            <mods:identifier type="lccn">BadWolf005</mods:identifier>
+        </mods:mods>
+    </modsSection>
+    
+    <pbcSection>
+        <pbcore:pbcoreDescriptionDocument>
+            <pbcore:pbcoreAssetDate>2001</pbcore:pbcoreAssetDate>
+            <pbcore:pbcoreIdentifier source="lccn">BadWolf.014</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Image of the Different Versions of the Doctor</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription> The Doctor Who theme song is highly recognizable becauase of its characteristic "Wooooo EEEEEEEE wooooooooooo" sound. With each new reincarncation of the Doctor, the theme song typically changes a little but the basic structure remains the same. 
+            </pbcore:pbcoreDescription>
+            <pbcore:pbcoreRightsSummary>
+                <pbcore:rightsSummary>(c) BBC</pbcore:rightsSummary>
+            </pbcore:pbcoreRightsSummary>
+        </pbcore:pbcoreDescriptionDocument>
+    </pbcSection>
+    
+    
+ 
+    
+    <medium>Audio</medium>
+    
+    
+</BadWolf>

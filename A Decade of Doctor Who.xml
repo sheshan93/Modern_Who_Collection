@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BadWolf xmlns="https://github.com/sheshan93/Modern_Who_Collection"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+    xmlns:mods="http://www.loc.gov/mods/v3"
+    xsi:schemaLocation="https://github.com/sheshan93/Modern_Who_Collection https://raw.githubusercontent.com/sheshan93/Modern_Who_Collection/master/badwolf.xsd">
+    
+    
+    <modsSection>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>A Decade of Doctor Who</mods:title>
+            </mods:titleInfo>
+            <mods:name type="personal">
+                <mods:namePart>Smith, John</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text">creator</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:originInfo eventType="publication">
+                <mods:publisher>YouTube</mods:publisher>
+            </mods:originInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            </mods:language>
+            <mods:physicalDescription>
+                <mods:form authority="marcform">electronic source</mods:form>
+            </mods:physicalDescription>
+            <mods:subject>
+                <mods:topic>Doctor Who</mods:topic>
+                <mods:topic>Science Fiction</mods:topic>
+            </mods:subject>
+            <mods:abstract type="Summary">This short, 4 minute long video, provides a recap of everything that happened in Doctor Who from 2005-2015; the first ten years of Modern Doctor Who. This is a good resource for people who don't have time to watch all the episodes, otherwise watch out for spoilers!</mods:abstract>
+            <mods:location>
+                <mods:url displayLabel="electronic resource" usage="primary display"
+                    >https://www.youtube.com/watch?v=XvpfIjCi2bo</mods:url>
+            </mods:location>
+            <mods:identifier type="lccn">BadWolf006</mods:identifier>
+        </mods:mods>
+    </modsSection>
+    
+    <pbcSection>
+        <pbcore:pbcoreDescriptionDocument>
+            <pbcore:pbcoreAssetDate>2015-03-26</pbcore:pbcoreAssetDate>
+            <pbcore:pbcoreIdentifier source="lccn">BadWolf.006</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>A Decade of Doctor Who</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription> This short, 4 minute long video, provides a recap of everything that happened in Doctor Who from 2005-2015; the first ten years of Modern Doctor Who. This is a good resource for people who don't have time to watch all the episodes, otherwise watch out for spoilers!</pbcore:pbcoreDescription>
+            <pbcore:pbcoreRightsSummary>
+                <pbcore:rightsSummary>https://www.youtube.com/yt/copyright</pbcore:rightsSummary>
+            </pbcore:pbcoreRightsSummary>
+        </pbcore:pbcoreDescriptionDocument>
+    </pbcSection>
+    
+    
+    <doctor>
+        <doctorNumber>Ninth</doctorNumber>
+        <performer>Eccleston, Christopher</performer>
+        <tenure>2005</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Tenth</doctorNumber>
+        <performer>Tennant,David</performer>
+        <tenure>2005-2010</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Eleventh</doctorNumber>
+        <performer>Smith, Matt</performer>
+        <tenure>2010-2013</tenure>
+    </doctor>
+    <doctor>
+        <doctorNumber>Twelfth</doctorNumber>
+        <performer>Capaldi, Peter</performer>
+        <tenure>2013-2017</tenure>
+    </doctor>
+    
+    
+    <medium>Video</medium>
+    
+    
+</BadWolf>
+
